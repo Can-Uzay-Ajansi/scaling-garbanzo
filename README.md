@@ -13,7 +13,7 @@ Koşullar:
 
 1. Yukarıdaki telif hakkı bildirimi ile bu izin bildirimi, Yazılımın tüm
    kopyalarına veya Yazılımın önemli bölümlerine dahil edilmelidir.
-
+ 
 GARANTİ REDDİ:
 
 YAZILIM "OLDUĞU GİBİ" SUNULMAKTADIR; AÇIK VEYA ÖRTÜLÜ HİÇBİR GARANTİ
